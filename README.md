@@ -29,7 +29,7 @@ The Jupyter notebook provides an analysis and modeling workflow including:
 To replicate this analysis:
 
 1. Clone this repo
-2. Download the transactions dataset from Kaggle and save to the `data` folder
+2. Download the transactions dataset from [Kaggle](https://www.kaggle.com/datasets/vardhansiramdasu/fraudulent-transactions-prediction)
 3. Run the Jupyter notebook
 
 Let me know if any sections need additional detail or if you would like me to expand the documentation.
